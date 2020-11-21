@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiracastDemo</string>
+
+    <string name="media_route_menu_title">Play on...</string>
+    <string name="sample_media_route_provider_remote">Remote Playback (Simulated)</string>
+    <string name="sample_media_route_activity_presentation">Local Playback on Presentation Display</string>
+</resources>
